@@ -21,7 +21,7 @@ key_path = '/Users/glkaufma/Documents/Intersight-programing/'
 # Create an AUTH object, you will need a secret and api key from the Intersight instance of interest.
 AUTH = IntersightAuth(
     secret_key_filename = key_path + 'SecretKey.txt',
-    api_key_id = '5b10286f68306b6e342339dd/603fd1497564612d30cdd80c/61f08f367564612d30a52855'
+    api_key_id = '<paste API Key here>'
     )
 
 # Intersight REST API Base URL

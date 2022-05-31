@@ -1,7 +1,9 @@
     
     
 The get_dimm_sn.py script was created to support Field Notice (FN): FN - 72368 - Some DIMMs Might Fail Prematurely Due
-to a Manufacturing Deviation - Hardware Upgrade Available. https://www.cisco.com/c/en/us/support/docs/field-notices/723/fn72368.html
+to a Manufacturing Deviation - Hardware Upgrade Available.
+
+https://www.cisco.com/c/en/us/support/docs/field-notices/723/fn72368.html
 
 This script makes API calls to obtian Serial Numbers (SNs), hostname, location and DN for all DIMMs from servers being managed by Intersight.
 

@@ -1,7 +1,7 @@
 **/venv/
 **/__pycache__/
 .DS_Store
+api_key.txt
 SecretKey.txt
 serial_all.xlsx
 serial.txt
-api_key.txt
